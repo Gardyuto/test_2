@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "git",
+			"path": ".."
+		},
+		{
+			"path": "../../JS_1/unit_03"
+		},
+		{
+			"path": "../../JS_1/Unit_02"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unit_03"
+	}
+}
